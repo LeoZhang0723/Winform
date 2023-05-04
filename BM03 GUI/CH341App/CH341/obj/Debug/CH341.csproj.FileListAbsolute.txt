@@ -1,0 +1,120 @@
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341.csproj.GenerateResource.Cache
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\bin\Debug\CH341App.exe.config
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\bin\Debug\CH341App.exe.manifest
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\bin\Debug\CH341App.application
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\bin\Debug\CH341App.exe
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\bin\Debug\CH341App.pdb
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.frmCH341_GPIO.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.frmCH341_I2C.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.frmCH341_I2CPrtMuAd.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.frmCH341_I2CPrt.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.frmCH341_EEPROM.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.frmCH341_I2CReg.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.Properties.Resources.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.TrustInfo.xml
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.exe.manifest
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.application
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.exe
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171204\CH341\obj\Debug\CH341App.pdb
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\bin\Debug\CH341App.exe.config
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.exe
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.pdb
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\bin\Debug\CH341App.exe.manifest
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\bin\Debug\CH341App.application
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\bin\Debug\CH341App.exe
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\bin\Debug\CH341App.pdb
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.frmCH341_GPIO.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.frmCH341_I2C.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.frmCH341_I2CPrtMuAd.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.frmCH341_I2CPrt.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.frmCH341_EEPROM.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.frmCH341_I2CReg.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.Properties.Resources.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341.csproj.GenerateResource.Cache
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.TrustInfo.xml
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.exe.manifest
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341App.application
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\SPIDbg.frmCH341_SPI.resources
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171205\CH341\obj\Debug\CH341.csprojResolveAssemblyReference.cache
+D:\Desktop\New folder (2)\CH341\bin\Debug\CH341App.exe.config
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.exe
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.pdb
+D:\Desktop\New folder (2)\CH341\bin\Debug\CH341App.exe.manifest
+D:\Desktop\New folder (2)\CH341\bin\Debug\CH341App.application
+D:\Desktop\New folder (2)\CH341\bin\Debug\CH341App.exe
+D:\Desktop\New folder (2)\CH341\bin\Debug\CH341App.pdb
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341.csprojResolveAssemblyReference.cache
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.frmCH341_GPIO.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.frmCH341_I2C.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.frmCH341_I2CPrtMuAd.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.frmCH341_I2CPrt.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.frmCH341_EEPROM.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.frmCH341_I2CReg.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\SPIDbg.frmCH341_SPI.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.Properties.Resources.resources
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341.csproj.GenerateResource.Cache
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.TrustInfo.xml
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.exe.manifest
+D:\Desktop\New folder (2)\CH341\obj\Debug\CH341App.application
+F:\fraser\digital study\program\CH341App\CH341App\CH341\bin\Debug\CH341App.exe.config
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.exe
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.pdb
+F:\fraser\digital study\program\CH341App\CH341App\CH341\bin\Debug\CH341App.exe.manifest
+F:\fraser\digital study\program\CH341App\CH341App\CH341\bin\Debug\CH341App.application
+F:\fraser\digital study\program\CH341App\CH341App\CH341\bin\Debug\CH341App.exe
+F:\fraser\digital study\program\CH341App\CH341App\CH341\bin\Debug\CH341App.pdb
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341.csprojResolveAssemblyReference.cache
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.frmCH341_I2C.resources
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.Properties.Resources.resources
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341.csproj.GenerateResource.Cache
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.TrustInfo.xml
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.exe.manifest
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.application
+F:\fraser\digital study\program\CH341App\CH341App\CH341\obj\Debug\CH341App.I2C_W_R.resources
+E:\program\CH341App\CH341\bin\Debug\CH341App.exe.config
+E:\program\CH341App\CH341\obj\Debug\CH341App.exe
+E:\program\CH341App\CH341\obj\Debug\CH341App.pdb
+E:\program\CH341App\CH341\bin\Debug\CH341App.exe.manifest
+E:\program\CH341App\CH341\bin\Debug\CH341App.application
+E:\program\CH341App\CH341\bin\Debug\CH341App.exe
+E:\program\CH341App\CH341\bin\Debug\CH341App.pdb
+E:\program\CH341App\CH341\obj\Debug\CH341.csprojResolveAssemblyReference.cache
+E:\program\CH341App\CH341\obj\Debug\CH341App.frmCH341_I2C.resources
+E:\program\CH341App\CH341\obj\Debug\CH341App.I2C_W_R.resources
+E:\program\CH341App\CH341\obj\Debug\CH341App.Properties.Resources.resources
+E:\program\CH341App\CH341\obj\Debug\CH341.csproj.GenerateResource.Cache
+E:\program\CH341App\CH341\obj\Debug\CH341App.TrustInfo.xml
+E:\program\CH341App\CH341\obj\Debug\CH341App.exe.manifest
+E:\program\CH341App\CH341\obj\Debug\CH341App.application
+E:\program\窗体程序\CH341App\CH341\bin\Debug\CH341App.exe.config
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.exe
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.pdb
+E:\program\窗体程序\CH341App\CH341\bin\Debug\CH341App.exe.manifest
+E:\program\窗体程序\CH341App\CH341\bin\Debug\CH341App.application
+E:\program\窗体程序\CH341App\CH341\bin\Debug\CH341App.exe
+E:\program\窗体程序\CH341App\CH341\bin\Debug\CH341App.pdb
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341.csprojResolveAssemblyReference.cache
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.frmCH341_I2C.resources
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.I2C_W_R.resources
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.Properties.Resources.resources
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341.csproj.GenerateResource.Cache
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.TrustInfo.xml
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.exe.manifest
+E:\program\窗体程序\CH341App\CH341\obj\Debug\CH341App.application
+E:\program\Win_Form\CH341App\CH341\bin\Debug\CH341App.exe.config
+E:\program\Win_Form\CH341App\CH341\bin\Debug\CH341App.exe.manifest
+E:\program\Win_Form\CH341App\CH341\bin\Debug\CH341App.application
+E:\program\Win_Form\CH341App\CH341\bin\Debug\CH341App.exe
+E:\program\Win_Form\CH341App\CH341\bin\Debug\CH341App.pdb
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341.csproj.AssemblyReference.cache
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341.csproj.SuggestedBindingRedirects.cache
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.frmCH341_I2C.resources
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.I2C_W_R.resources
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.Properties.Resources.resources
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341.csproj.GenerateResource.cache
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341.csproj.CoreCompileInputs.cache
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.TrustInfo.xml
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.exe.manifest
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.application
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.exe
+E:\program\Win_Form\CH341App\CH341\obj\Debug\CH341App.pdb

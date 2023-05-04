@@ -1,0 +1,874 @@
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160818\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160819\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160826\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160829\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160830\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20160831\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161024\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161031\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.exe.config
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.application
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.exe
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.pdb
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.application
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.exe
+\\ae-ats02\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161109\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161110\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161111\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161112\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161118\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161125\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161128\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161130\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161201\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161202\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161205\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161205\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161205\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161212\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161213\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161216\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161220\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161223\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20161226\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170105\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170112\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.frmIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.frmMain.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.frmPrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.frmPrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.frmEEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.frmRegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170113\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 201701131\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170115\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170116\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170116\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170116\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170124\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170213\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2C Debugger.application
+H:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\Share\DmoAppExtTst\DmoAppExtTst 20170214\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.pdb
+\\ae-ats03\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\bin\Debug\I2C Debugger.exe.config
+\\ae-ats03\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.exe
+\\ae-ats03\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170320\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170329\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170412\I2CDbg\obj\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\bin\Debug\I2C Debugger.exe.config
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\bin\Debug\I2C Debugger.application
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\bin\Debug\I2C Debugger.exe
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\bin\Debug\I2C Debugger.pdb
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+D:\Share\DmoAppExtTst\DmoAppExtTst 20170425\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170606\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170609\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170620\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170625\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170625\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170625\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\DmoAppExtTst 20170627\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170728\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170803\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\20170803\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170803\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170815\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\20170815\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170815\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170905\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170911\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\bin\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\bin\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\bin\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\bin\Debug\I2C Debugger.pdb
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_GPIOCtl.resources
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_Main.resources
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtModMuAd.resources
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_PrtMod.resources
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_EEMod.resources
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.frmI2CDbg_RegMod.resources
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.Properties.Resources.resources
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.csproj.GenerateResource.Cache
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2C Debugger.TrustInfo.xml
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2C Debugger.exe.manifest
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2C Debugger.application
+H:\LuoZQ\DmoAppExtTst\20170913\I2CDbg\obj\Debug\I2CDbg.csprojResolveAssemblyReference.cache
+H:\LuoZQ\DmoAppExtTst\20170927\I2CDbg\bin\Debug\I2C Debugger.exe.config
+H:\LuoZQ\DmoAppExtTst\20170927\I2CDbg\obj\Debug\I2C Debugger.exe
+H:\LuoZQ\DmoAppExtTst\20170927\I2CDbg\obj\Debug\I2C Debugger.pdb
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171114\I2CDbg\bin\Debug\I2C Debugger.exe.config
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171114\I2CDbg\obj\Debug\I2C Debugger.exe
+C:\Users\ZLuo\Desktop\LuoZQ\DmoAppExtTst\20171114\I2CDbg\obj\Debug\I2C Debugger.pdb
