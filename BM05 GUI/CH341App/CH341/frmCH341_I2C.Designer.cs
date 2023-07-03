@@ -230,6 +230,8 @@
             this.donotSupportCRC = new System.Windows.Forms.RadioButton();
             this.SupportCRC = new System.Windows.Forms.RadioButton();
             this.label27 = new System.Windows.Forms.Label();
+            this.SD1 = new System.Windows.Forms.Button();
+            this.SD2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudSlvAddr)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -437,6 +439,8 @@
             // 
             // groupBox6
             // 
+            this.groupBox6.Controls.Add(this.SD2);
+            this.groupBox6.Controls.Add(this.SD1);
             this.groupBox6.Controls.Add(this.label98);
             this.groupBox6.Controls.Add(this.label99);
             this.groupBox6.Controls.Add(this.label91);
@@ -1592,7 +1596,7 @@
             // 
             // ClearFault
             // 
-            this.ClearFault.Location = new System.Drawing.Point(596, 85);
+            this.ClearFault.Location = new System.Drawing.Point(596, 142);
             this.ClearFault.Name = "ClearFault";
             this.ClearFault.Size = new System.Drawing.Size(88, 34);
             this.ClearFault.TabIndex = 98;
@@ -2647,6 +2651,26 @@
             this.label27.TabIndex = 134;
             this.label27.Text = "OCD_T0";
             // 
+            // SD1
+            // 
+            this.SD1.Location = new System.Drawing.Point(593, 15);
+            this.SD1.Name = "SD1";
+            this.SD1.Size = new System.Drawing.Size(88, 34);
+            this.SD1.TabIndex = 206;
+            this.SD1.Text = "SD1";
+            this.SD1.UseVisualStyleBackColor = true;
+            this.SD1.Click += new System.EventHandler(this.SD1_Click);
+            // 
+            // SD2
+            // 
+            this.SD2.Location = new System.Drawing.Point(593, 57);
+            this.SD2.Name = "SD2";
+            this.SD2.Size = new System.Drawing.Size(88, 34);
+            this.SD2.TabIndex = 207;
+            this.SD2.Text = "SD2";
+            this.SD2.UseVisualStyleBackColor = true;
+            this.SD2.Click += new System.EventHandler(this.SD2_Click);
+            // 
             // frmCH341_I2C
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -2889,5 +2913,7 @@
         private System.Windows.Forms.Label label89;
         private System.Windows.Forms.Label label98;
         private System.Windows.Forms.Label label99;
+        private System.Windows.Forms.Button SD2;
+        private System.Windows.Forms.Button SD1;
     }
 }

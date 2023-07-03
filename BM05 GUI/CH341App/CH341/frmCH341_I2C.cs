@@ -2286,6 +2286,17 @@ namespace CH341App   //namespace声明，CH341APP命名空间中可以包含一�
         {
 
         }
+
+        private void SD1_Click(object sender, EventArgs e)
+        {
+            if (!I2CLib.WriteReg1Byt(slvAdr, 0x14, 0x81, CRC_enable)) { return; }
+        }
+
+        private void SD2_Click(object sender, EventArgs e)
+        {
+
+            if (!I2CLib.WriteReg1Byt(slvAdr, 0x14, 0x82, CRC_enable)) { return; }
+        }
     }
 }
 
